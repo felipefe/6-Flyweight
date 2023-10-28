@@ -1,0 +1,15 @@
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\bin\Debug\net6.0\6-Flyweight.exe
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\bin\Debug\net6.0\6-Flyweight.deps.json
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\bin\Debug\net6.0\6-Flyweight.runtimeconfig.json
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\bin\Debug\net6.0\6-Flyweight.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\bin\Debug\net6.0\6-Flyweight.pdb
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\obj\Debug\net6.0\6-Flyweight.csproj.AssemblyReference.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\obj\Debug\net6.0\6-Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\obj\Debug\net6.0\6-Flyweight.AssemblyInfoInputs.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\obj\Debug\net6.0\6-Flyweight.AssemblyInfo.cs
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\obj\Debug\net6.0\6-Flyweight.csproj.CoreCompileInputs.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\obj\Debug\net6.0\6-Flyweight.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\obj\Debug\net6.0\refint\6-Flyweight.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\obj\Debug\net6.0\6-Flyweight.pdb
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\obj\Debug\net6.0\6-Flyweight.genruntimeconfig.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\6-Flyweight\obj\Debug\net6.0\ref\6-Flyweight.dll
